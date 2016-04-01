@@ -1,0 +1,39 @@
+IDEAS.TXT
+
+To keep train of thought active, a text file.
+\
+
+For MAIN.HTML
+
+//////For "other news" tab, add hover:"other news"--> make opacity ~50%,
+=once clicked, (KEY LISTENER??) open up website to other news options, (+3?) and then to keep scrolling the news add another arrow option 
+
+
+/////WRITE UP ON CALI FOR CLUB SPORTS
+
+	President's Day Weekend came just in time for the Northeastern Valkyries. The team escaped the record-cold temperatures in Boston for the bright and sunny San Diego, California for the University of California's annual Pres Day tournament. Seeded 12th out of 18 teams, the Valks fought hard all weekend to show some of the west-coast teams just exactly what the New England region can bring. Starting early Saturday morning, (although it would be mid-afternoon EST), the Valkyries played University of Texas at Austin's Melee. Ranked 9th in the country, the Valkyries came out with a win, 12-10. Keeping the momentum, took another win against the University of California at Santa Barbara's Burning Skirts 11-6. Next, the Valkyries went up agains UCLA, who are ranked 6th in the country. Definitely seeing fiercer competition, the Valks had to adjust their intensity and really went to work against UCLA. The final turnout was a loss, 7-10, but a lot was learned from playing such a non-stop team.
+
+	Starting at the same time on Monday, the Valks played University of Washington's Element. Starting the game strong with the first point, Element picked it up very quickly and ultimately the Valks came out with a loss, 8-15. Next, the Valkyries played the defending national champions, University of Oregon. Although the odds were stacked against us, we kept up with this team and even had a lead early on, fighting point for point in the first half. After realizing our offense couldn't be matched with person defense, Oregon switched to a zone defense. The handler core Sam Gray, Tracey Lum, Ariel Bloch, Eleanor Patten, Ally Rosin, and rookie Katharine Gilbert showed confidence and composure but points were definitely harder to score near the endzone. Eventually, Oregon picked up a few more points and ended the game for the Valks, losing 10-15. However, captains Nicole Canning and Mei Bruist are featured in Fulcrum Media Group top play of the weekend with a beautiful huck downfield and layout grab for the score! After a hard loss, the Valkyries played their third game of the day against University of California at Berklee and at halftime the score was 2-8. The Valkyries fought hard and diminished the deficit but could not fully close the gap, ending the game 9-14. The Valks finished the day 0-3, the weekend thus far 2-4.
+
+	Finally, the Monday morning game at 7:30 am with University of Colorado was the fight for 11th place. After plenty of back and forth, the Valkyries had the lead at half-time. The result of the game was a loss for the Valkyries, holding their seed at 12th place. Although the rankings may not show it, the Valks definitely showed the rest of the country that we are plenty tough and capable to compete with the best teams in Women's College Ultimate. Oregon, UCLA, and Texas all made it to the semi-finals and UCLA played in the championship game for the tournament. Playing teams like these allowed us to see what we need to work on, how we can improve, and ultimately what we need to do to win. Anyone watching the tournament this weekend knows not to write off the Northeastern Valkyries- next up is Centex in Austin, Texas March 19-20, and we're coming back with fire in our eyes.
+
+For A_TEAM.HTML
+
+//////Look up how to edit the layout of a table, such as 1..create distinct width for each column, 2..key listener for the img so that it transitions to change to a diff pic, etc.
+
+
+For B_TEAM.HTML
+
+For ALUMNI.HTML
+
+For CALENDER.HTML
+
+For RECORDS.HTML
+
+For MY_CALENDER.HTML
+
+For SOCIAL.HTML
+
+For GEAR.HTML
+
+For CONTACT.HTML
